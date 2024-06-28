@@ -7,7 +7,6 @@
 *.sln.docstates
 
 # Build results
-
 [Dd]ebug/
 [Rr]elease/
 x64/
@@ -143,3 +142,8 @@ task1/.vs/task1/FileContentIndex/9289ac66-5025-4ac0-86d0-c999267d24fd.vsidx
 task1/.vs/task1/v17/.futdcache.v2
 task1/.vs/task1/v17/.wsuo
 task1/.vs/task1/v17/DocumentLayout.json
+
+
+*.bin
+*.v2
+*.vsidx
