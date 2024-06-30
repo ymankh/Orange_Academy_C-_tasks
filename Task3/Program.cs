@@ -24,18 +24,21 @@ string[] favoriteMovie = ["The Shawshank Redemption", "The Godfather", "The Dark
 // Then, print each array using foreach, and Loop Through an Array
 foreach (var item in favoriteFood)
 {
-    Console.WriteLine(item);
+    Console.Write("{0} ", item);
 }
+Console.WriteLine();
 
 foreach (var item in favoriteSport)
 {
-    Console.WriteLine(item);
+    Console.Write("{0} ", item);
 }
+Console.WriteLine();
 
 foreach (var item in favoriteMovie)
 {
-    Console.WriteLine(item);
+    Console.Write(" {0}", item);
 }
+Console.WriteLine();
 
 // Task4: Write a program in C# to calculate the sum of three numbers with getting input in one line separated by a comma
 Console.Write("Input three numbers separated by comma: ");
@@ -67,17 +70,16 @@ Console.WriteLine("The sum of odd number: " + sum2);
 // Task 6:	Write a program in C# to display the pattern like right angle triangle using an asterisk. Go to the editor
 
 Console.WriteLine("Enter the number of rows of the triangle: ");
-int rows = Convert.ToInt32(Console.ReadLine()) * 2;
-
-for (int i = 1; i <= rows; i += 2)
+int rows = Convert.ToInt32(Console.ReadLine());
+for (int i = 1; i <= rows; i += 1)
 {
-    for (int j = 1; j <= (rows - i) / 2; j++)
+    for (int j = 1; j <= (rows - i); j++)
     {
         Console.Write(" ");
     }
-    for (int j = 1; j <= i ; j++)
+    for (int j = 1; j <= i; j++)
     {
-        Console.Write("*");
+        Console.Write("* ");
     }
     Console.WriteLine();
 }
@@ -85,15 +87,16 @@ for (int i = 1; i <= rows; i += 2)
 var counter = 0;
 for (int i = 1; i <= rows; i += 2)
 {
-    
+
     for (int j = 1; j <= (rows - i) / 2; j++)
     {
-        // Console.Write(" ");
+        Console.Write(" ");
     }
-    for (int j = 1; j <= i ; j++)
+    for (int j = 1; j <= i; j++)
     {
         counter++;
-        Console.Write(" {0}", counter);
+        Console.Write("{0} ", counter);
+        
     }
     Console.WriteLine();
 }
