@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\programing\\Orange_Academy_C-_tasks\\Task7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1656A2F-7F69-47AF-BFB5-BC6067307A37}|WebApplication8\\WebApplication8.csproj|c:\\users\\orange\\desktop\\programing\\orange_academy_c-_tasks\\task7\\webapplication8\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1656A2F-7F69-47AF-BFB5-BC6067307A37}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1656A2F-7F69-47AF-BFB5-BC6067307A37}|WebApplication8\\WebApplication8.csproj|c:\\users\\orange\\desktop\\programing\\orange_academy_c-_tasks\\task7\\webapplication8\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D1656A2F-7F69-47AF-BFB5-BC6067307A37}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1656A2F-7F69-47AF-BFB5-BC6067307A37}|WebApplication8\\WebApplication8.csproj|c:\\users\\orange\\desktop\\programing\\orange_academy_c-_tasks\\task7\\webapplication8\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1656A2F-7F69-47AF-BFB5-BC6067307A37}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\programing\\Orange_Academy_C-_tasks\\Task7\\WebApplication8\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\programing\\Orange_Academy_C-_tasks\\Task7\\WebApplication8\\WebForm2.aspx.cs",
+              "RelativeToolTip": "WebApplication8\\WebForm2.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:40:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\programing\\Orange_Academy_C-_tasks\\Task7\\WebApplication8\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "WebApplication8\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\programing\\Orange_Academy_C-_tasks\\Task7\\WebApplication8\\WebForm2.aspx",
+              "RelativeToolTip": "WebApplication8\\WebForm2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T20:38:07.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\programing\\Orange_Academy_C-_tasks\\Task7\\WebApplication8\\bootstrap.css",
+              "RelativeDocumentMoniker": "WebApplication8\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\programing\\Orange_Academy_C-_tasks\\Task7\\WebApplication8\\bootstrap.css",
+              "RelativeToolTip": "WebApplication8\\bootstrap.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T20:32:02.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
